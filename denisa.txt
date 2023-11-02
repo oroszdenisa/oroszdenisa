@@ -1,0 +1,10 @@
+<html>
+ <head>
+ <title> Cuprins</title>
+ </head>
+ <body>
+ <a href="doc(2)(2)"> FIRST</a>
+ <br>
+ <a hre="doc"> SECOND</a>
+ </body>
+ </html>
